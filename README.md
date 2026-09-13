@@ -11,7 +11,6 @@
 [![Gmail](https://img.shields.io/badge/-ktkdeena%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ktkdeena@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/D-e-e-n-a794)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deena-khattak-579064348)
-[![WhatsApp](https://img.shields.io/badge/-0331--4911888-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/923314911888)
 
 ---
 
@@ -50,13 +49,6 @@
 - **[SmartMap AI – Map Application](https://smartmap-ai-eight.vercel.app/)** — A web app integrating interactive maps with real-time data rendering, backed by a MongoDB + Express + Node REST API.
 - **[AI Job Impact Analyzer](https://ai-job-impact-analyzer.streamlit.app/)** — End-to-end Python project analyzing 1,000+ job-market records, with EDA, data cleaning, and predictive classification models using Scikit-Learn.
 - **Online Voting System** — Console-based C++ application applying core OOP principles for secure, one-person-one-vote election logic.
-
----
-
-## 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=D-e-e-n-a794&show_icons=true&theme=dark&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-e-e-n-a794&layout=compact&theme=dark&hide_border=true" />
 
 ---
 
