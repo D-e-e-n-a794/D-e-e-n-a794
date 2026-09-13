@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:6b0000&height=200&section=header" />
+
 # Deena Eeman
 
 *Computer Science student building full-stack MERN projects and exploring AI & Data Science*
@@ -54,6 +56,6 @@
 
 **Urdu:** Native &nbsp;|&nbsp; **English:** Professional &nbsp;|&nbsp; **Pashto:** Native
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,100:6b0000&height=100&section=footer" />
 
 </div>
