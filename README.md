@@ -16,7 +16,7 @@
 
 </div>
 
-## 🎓 About Me
+## About Me
 
 - 5th Semester **Computer Science** student at **UET Peshawar** (CGPA: 3.55/4.00)
 - Delivered **PromoTrack**, a MERN-stack activation management portal for an international client
