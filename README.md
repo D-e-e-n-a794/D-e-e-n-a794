@@ -18,15 +18,15 @@
 
 ## 🎓 About Me
 
-- 🖥️ 5th Semester **Computer Science** student at **UET Peshawar** (CGPA: 3.55/4.00)
-- 🚀 Delivered **PromoTrack**, a MERN-stack activation management portal for an international client
-- 🤖 Interested in **AI & Data Science**, with hands-on experience in Scikit-Learn, Pandas, and NumPy
-- 🌱 Built **Map Application** with real-time data rendering
-- 🏆 Recipient of the **Prime Minister's Laptop Scheme (2026)** for academic merit
+- 5th Semester **Computer Science** student at **UET Peshawar** (CGPA: 3.55/4.00)
+- Delivered **PromoTrack**, a MERN-stack activation management portal for an international client
+- Interested in **AI & Data Science**, with hands-on experience in Scikit-Learn, Pandas, and NumPy
+- Built **Map Application** with real-time data rendering
+- Recipient of the **Prime Minister's Laptop Scheme (2026)** for academic merit
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-## 📌 Projects
+## Projects
 
 - **[PromoTrack – Activation Management Portal](https://pms1-silk.vercel.app/)** — Full-stack MERN portal built for an international client, with 6+ modules, a 15+ endpoint REST API, and real-time activation tracking.
 - **[SmartMap AI – Map Application](https://smartmap-ai-eight.vercel.app/)** — A web app integrating interactive maps with real-time data rendering, backed by a MongoDB + Express + Node REST API.
