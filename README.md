@@ -1,7 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=200&section=header" />
-
 # Deena Eeman
 
 *Computer Science student building full-stack MERN projects and exploring AI & Data Science*
@@ -21,7 +19,7 @@
 - 🖥️ 5th Semester **Computer Science** student at **UET Peshawar** (CGPA: 3.55/4.00)
 - 🚀 Delivered **PromoTrack**, a MERN-stack activation management portal for an international client
 - 🤖 Interested in **AI & Data Science**, with hands-on experience in Scikit-Learn, Pandas, and NumPy
-- 🌱 Built **Map Application** with real-time data rendering
+- 🌱 Currently building a **Map Application** with real-time data rendering
 - 🏆 Recipient of the **Prime Minister's Laptop Scheme (2026)** for academic merit
 
 ---
