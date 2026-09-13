@@ -21,7 +21,7 @@
 - 🖥️ 5th Semester **Computer Science** student at **UET Peshawar** (CGPA: 3.55/4.00)
 - 🚀 Delivered **PromoTrack**, a MERN-stack activation management portal for an international client
 - 🤖 Interested in **AI & Data Science**, with hands-on experience in Scikit-Learn, Pandas, and NumPy
-- 🌱 Currently building a **Map Application** with real-time data rendering
+- 🌱 Built **Map Application** with real-time data rendering
 - 🏆 Recipient of the **Prime Minister's Laptop Scheme (2026)** for academic merit
 
 ---
